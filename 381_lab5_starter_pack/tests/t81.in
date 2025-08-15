@@ -1,0 +1,4 @@
+regentWhenBorn(X, 'King George III'),
+print(X),
+print('\n'),
+halt.
